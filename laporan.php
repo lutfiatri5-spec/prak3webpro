@@ -35,11 +35,11 @@ FS
 <div class="hidden md:flex items-center gap-6">
 
 <a href="beranda.php">Beranda</a>
-<a href="#">Laporan</a>
+<a href="laporan.php" class="font-bold">Laporan</a>
 <a href="#">Edukasi</a>
 <a href="#">Peta</a>
 <a href="#">Kamera</a>
-<a href="laporan.php" class="font-bold">Laporan</a>
+
 
 </div>
 
