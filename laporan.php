@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Laporan Banjir - FloodSense</title>
+<title>Laporan Sampah - Smart Waste</title>
 
 <script src="https://cdn.tailwindcss.com"></script>
 
@@ -29,14 +29,14 @@
 FS
 </div>
 
-<span class="text-xl font-bold">FloodSense</span>
+<span class="text-xl font-bold">Smart Waste</span>
 </a>
 
 <div class="hidden md:flex items-center gap-6">
 
 <a href="beranda.php">Beranda</a>
-<a href="#">Notifikasi</a>
-<a href="#">Berita</a>
+<a href="#">Laporan</a>
+<a href="#">Edukasi</a>
 <a href="#">Peta</a>
 <a href="#">Kamera</a>
 <a href="laporan.php" class="font-bold">Laporan</a>

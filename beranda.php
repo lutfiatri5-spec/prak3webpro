@@ -36,8 +36,6 @@ Smart Waste
 <a href="notifikasi.html" class="hover:text-yellow-300">Laporan</a>
 <a href="berita.html" class="hover:text-yellow-300">Edukasi</a>
 <a href="peta.html" class="hover:text-yellow-300">Peta</a>
-<a href="kamera.html" class="hover:text-yellow-300">Kamera</a>
-<a href="laporan.php" class="hover:text-yellow-300">Laporan</a>
 <a href="about us.html" class="hover:text-yellow-300">About Us</a>
 
 </div>
